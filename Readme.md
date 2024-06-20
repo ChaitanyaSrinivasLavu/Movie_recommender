@@ -1,4 +1,4 @@
-# Django based movie recommender system
+# Django based movie recommendation system
 
 ### Website Preview
 #### Home Page
